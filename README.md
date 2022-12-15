@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/045c552d9a864efce867/maintainability)](https://codeclimate.com/github/frllerto/frontend-project-44/maintainability)
 ### Asciinema Recording of brain-even:
 (https://asciinema.org/a/SbZGCI7TVUXietgD8bZUEOJ6W)
+### Asciinema Recording of brain-calc:
+(https://asciinema.org/a/GmmbMZC7eZGn7fDy81h8Ufuzg)
