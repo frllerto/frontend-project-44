@@ -6,3 +6,5 @@
 (https://asciinema.org/a/SbZGCI7TVUXietgD8bZUEOJ6W)
 ### Asciinema Recording of brain-calc:
 (https://asciinema.org/a/GmmbMZC7eZGn7fDy81h8Ufuzg)
+### Asciinema Recording of brain-gcd:
+(https://asciinema.org/a/sXocyoLdRTPkrXBXPr1bPFdPj)
