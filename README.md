@@ -8,3 +8,5 @@
 (https://asciinema.org/a/GmmbMZC7eZGn7fDy81h8Ufuzg)
 ### Asciinema Recording of brain-gcd:
 (https://asciinema.org/a/sXocyoLdRTPkrXBXPr1bPFdPj)
+### Asciinema Recording of brain-progression:
+(https://asciinema.org/a/npZc8s6884MRtsAABp6fBM3M6)
