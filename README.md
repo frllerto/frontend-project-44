@@ -10,3 +10,5 @@
 (https://asciinema.org/a/sXocyoLdRTPkrXBXPr1bPFdPj)
 ### Asciinema Recording of brain-progression:
 (https://asciinema.org/a/npZc8s6884MRtsAABp6fBM3M6)
+### Asciinema Recording of brain-prime:
+(https://asciinema.org/a/2XS02eG0lM4F7XBxMvu7u5MsI)
